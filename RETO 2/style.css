@@ -1,0 +1,40 @@
+
+/* Fondo en degrade */
+.gradient-custom {
+    background: linear-gradient(to bottom right, rgb(28, 174, 241), rgb(8, 104, 163));
+    height: 100vh; /* Ajustado para ocupar toda la pantalla */
+}
+.card {
+    background-color: #fff; /* Fondo del card */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave */
+    padding: 20px;
+    max-width: 600px; /* Ancho máximo del card */
+    margin: 0 auto; /* Centrado horizontal */
+    margin-top: 50px; /* Espacio superior */
+}
+.card-header {
+    background-color: #343a40; /* Color de fondo del encabezado */
+    color: #fff; /* Color del texto del encabezado */
+    padding: 10px 20px; /* Espaciado interno */
+    text-align: center; /* Alineación centrada */
+    border-radius: 10px 10px 0 0; /* Bordes redondeados en la parte superior */
+}
+.card-body {
+    padding: 20px; /* Espaciado interno */
+}
+.btn-container {
+    text-align: center; /* Alineación centrada */
+    margin-top: 20px; /* Espacio superior */
+}
+.btn-primary, .btn-secondary {
+    margin-right: 10px; /* Espacio entre botones */
+}
+#arrayPuntos {
+    margin-top: 20px; /* Espacio superior */
+}
+.footer {
+    text-align: center; /* Alineación centrada */
+    margin-top: 30px; /* Espacio superior */
+    color: #6c757d; /* Color del texto del pie de página */
+}
