@@ -4,3 +4,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 
 * **#0** - 20/04/24 | Fácil | [`EL FAMOSO "FIZZ BUZZ"`]
 
+* **#1** - 20/04/24 | Fácil | [`EL LENGUAJE "HACKER"`]
+
