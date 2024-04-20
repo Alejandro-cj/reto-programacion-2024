@@ -1,4 +1,4 @@
-<script>            
+         
 //Crea las variables necesarias 
 let puntosPorJugador = [0, 0];
 let puntosValidos = ["Love", 15, 30, 40];
@@ -49,4 +49,3 @@ function actualizarPuntos(value){
         botonP2.disabled = true; 
     }
 }
-</script>
