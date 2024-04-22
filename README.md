@@ -7,3 +7,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#1** - 20/04/24 | Fácil | [`EL LENGUAJE "HACKER"`]
 
 * **#2** - 20/04/24 | MEDIA | [`EL PARTIDO DE TENIS`]
+
+* **#3** - 22/04/24 | MEDIA | [`GENERADOR DE CONTRASEÑA`]
