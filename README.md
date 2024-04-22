@@ -9,3 +9,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#2** - 20/04/24 | MEDIA | [`EL PARTIDO DE TENIS`]
 
 * **#3** - 22/04/24 | MEDIA | [`GENERADOR DE CONTRASEÑA`]
+* **#4** - 22/04/24 | MEDIA | [`PRIMO, FIBONACCI Y PAR`]
