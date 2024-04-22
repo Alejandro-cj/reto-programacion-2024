@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piedra, Papel, Tijera, Lagarto, Spock</title>
+    <link rel="stylesheet" href="styles.sass">
+</head>
+<body>
+    <div class="container">
+        <h1>Piedra, Papel, Tijera, Lagarto, Spock</h1>
+        <div class="input-container">
+            <label for="movesInput">Ingresa las jugadas:</label>
+            <input type="text" id="movesInput" placeholder="Ej. 🗿✂️ 📄🖖 🦎🗿">
+            <button onclick="calculateWinner()">Calcular Ganador</button>
+        </div>
+        <div id="result"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

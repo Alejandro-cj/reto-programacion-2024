@@ -11,3 +11,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#3** - 22/04/24 | MEDIA | [`GENERADOR DE CONTRASEÑA`]
 * **#4** - 22/04/24 | MEDIA | [`PRIMO, FIBONACCI Y PAR`]
 * **#5** - 20/04/24 | Fácil | [` HOLA MUNDO XD`]
+
+* **#6** - 20/04/24 | MEDIA | [`Piedra, Papel, Tijera, Lagarto, Spock`]
