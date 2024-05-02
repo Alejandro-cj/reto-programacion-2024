@@ -13,3 +13,5 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#5** - 20/04/24 | Fácil | [` HOLA MUNDO XD`]
 
 * **#6** - 20/04/24 | MEDIA | [`Piedra, Papel, Tijera, Lagarto, Spock`]
+
+* **#7** - 02/05/24 | MEDIA | [ `El sombrero seleccionador` ] 
