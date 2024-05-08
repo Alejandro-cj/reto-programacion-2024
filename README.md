@@ -12,3 +12,4 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#7** - 02/05/24 | MEDIA | [ `El sombrero seleccionador` ] 
 * **#8** - 02/05/24 | MEDIA | [ `El generador pseudoaleatorio` ] 
 * **#9** - 08/05/24 | Fácil | [`HETEROGRAMA, ISOGRAMA Y PANGRAMA`]
+* **#10** - 08/05/24 | Media | [`LA API`]
